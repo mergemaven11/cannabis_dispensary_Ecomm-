@@ -1,5 +1,3 @@
-# Dutchie Interview Project
-
 ## Getting started:
 
 Make sure you have node foreman installed globally:
