@@ -10,8 +10,6 @@ export default function IndexPage() {
     <PageWrapper heading='Read me!' icon='dispensaries'>
       <Content.Wrapper>
         <Content.Body>
-          <Content.Paragraph>Welcome to dutchie's front end technical challenge!</Content.Paragraph>
-
           <Content.Paragraph>
             In addition to vanilla React, the following tools are included in this project:
           </Content.Paragraph>
