@@ -7,7 +7,11 @@ import PageWrapper from 'components/layout/page-wrapper';
 //todo: Apollo GraphQL query here
 
 // Product Card component here
-import Card from '../components/layout/card';
+// import Card from '../components/layout/card';
+import Card from '../components/layout/ProductCard';
+//  bring in the graphql data here 
+
+// complete layout with dummy data
 
 export default function ProductCard() {
   return (
